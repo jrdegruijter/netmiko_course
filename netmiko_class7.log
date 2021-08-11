@@ -1,0 +1,43 @@
+2021-07-07 03:33:54,438 ERROR __main__ DNS failure
+2021-07-07 03:33:59,456 ERROR __main__ TCP connection to device failed. Are you using the correct port?
+2021-07-07 03:33:59,850 INFO paramiko.transport Connected (version 2.0, client OpenSSH_7.5)
+2021-07-07 03:34:02,334 INFO paramiko.transport Auth banner: b'User Access Verification\n'
+2021-07-07 03:34:02,335 INFO paramiko.transport Authentication (password) failed.
+2021-07-07 03:34:02,335 ERROR __main__ Authentication failed. Please check used credentials
+2021-07-07 03:34:02,735 INFO paramiko.transport Connected (version 2.0, client OpenSSH_7.5)
+2021-07-07 03:34:03,054 INFO paramiko.transport Auth banner: b'User Access Verification\n'
+2021-07-07 03:34:03,055 INFO paramiko.transport Authentication (password) successful!
+2021-07-07 03:37:13,967 ERROR __main__ DNS failure
+2021-07-07 03:37:18,972 ERROR __main__ TCP connection to device failed. Are you using the correct port?
+2021-07-07 03:37:19,260 INFO paramiko.transport Connected (version 2.0, client OpenSSH_7.5)
+2021-07-07 03:37:21,378 INFO paramiko.transport Auth banner: b'User Access Verification\n'
+2021-07-07 03:37:21,378 INFO paramiko.transport Authentication (password) failed.
+2021-07-07 03:37:21,378 ERROR __main__ Authentication failed. Please check used credentials
+2021-07-07 03:37:21,829 INFO paramiko.transport Connected (version 2.0, client OpenSSH_7.5)
+2021-07-07 04:22:10,081 ERROR __main__ DNS failure
+2021-07-07 04:22:15,112 ERROR __main__ TCP connection to device failed. Are you using the correct port?
+2021-07-07 04:22:15,465 INFO paramiko.transport Connected (version 2.0, client OpenSSH_7.5)
+2021-07-07 04:22:17,046 INFO paramiko.transport Auth banner: b'User Access Verification\n'
+2021-07-07 04:22:17,047 INFO paramiko.transport Authentication (password) failed.
+2021-07-07 04:22:17,047 ERROR __main__ Authentication failed. Please check used credentials
+2021-07-07 04:22:17,396 INFO paramiko.transport Connected (version 2.0, client OpenSSH_7.5)
+2021-07-07 04:22:17,732 INFO paramiko.transport Auth banner: b'User Access Verification\n'
+2021-07-07 04:22:17,733 INFO paramiko.transport Authentication (password) successful!
+2021-07-07 04:24:50,515 ERROR __main__ DNS failure
+2021-07-07 04:25:17,166 ERROR __main__ TCP connection to device failed. Are you using the correct port?
+2021-07-07 04:25:51,454 INFO paramiko.transport Connected (version 2.0, client OpenSSH_7.5)
+2021-07-07 04:25:53,707 INFO paramiko.transport Auth banner: b'User Access Verification\n'
+2021-07-07 04:25:53,708 INFO paramiko.transport Authentication (password) failed.
+2021-07-07 04:25:53,708 ERROR __main__ Authentication failed. Please check used credentials
+2021-07-07 04:26:08,641 INFO paramiko.transport Connected (version 2.0, client OpenSSH_7.5)
+2021-07-07 04:26:09,045 INFO paramiko.transport Auth banner: b'User Access Verification\n'
+2021-07-07 04:26:09,045 INFO paramiko.transport Authentication (password) successful!
+2021-07-07 04:27:35,196 ERROR __main__ DNS failure
+2021-07-07 04:27:40,221 ERROR __main__ TCP connection to device failed. Are you using the correct port?
+2021-07-07 04:27:40,563 INFO paramiko.transport Connected (version 2.0, client OpenSSH_7.5)
+2021-07-07 04:27:43,069 INFO paramiko.transport Auth banner: b'User Access Verification\n'
+2021-07-07 04:27:43,069 INFO paramiko.transport Authentication (password) failed.
+2021-07-07 04:27:43,069 ERROR __main__ Authentication failed. Please check used credentials
+2021-07-07 04:27:43,504 INFO paramiko.transport Connected (version 2.0, client OpenSSH_7.5)
+2021-07-07 04:27:43,841 INFO paramiko.transport Auth banner: b'User Access Verification\n'
+2021-07-07 04:27:43,841 INFO paramiko.transport Authentication (password) successful!
